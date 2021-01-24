@@ -20,7 +20,7 @@ I've made a simple web page in 2020, but it looks like it was created in the 90s
 ## Setup
 All you need is just a web browser and the internet connection.
 
-## Knowledge
+## Gained knowledge
 * HTML structure and elements
 * Ordered and unordered lists
 * Basic knowledge of tables and forms
