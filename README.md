@@ -7,6 +7,7 @@ My first project using only HTML.
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Gained knowledge](#gained-knowledge)
+* [Screenshot](#screenshot)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -24,6 +25,9 @@ All you need is just a web browser and the internet connection.
 * HTML structure and elements
 * Ordered and unordered lists
 * Basic knowledge of tables and forms
+
+## Screenshot
+![screenshot](https://user-images.githubusercontent.com/23439837/107153478-6ff02a80-6976-11eb-86e3-e8e5f06e4772.png)
 
 ## Status
 Project is: _finished_.
