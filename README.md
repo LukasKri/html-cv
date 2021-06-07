@@ -2,6 +2,9 @@
 
 My first project using only HTML.
 
+## Live demo
+https://lukaskri.github.io/html-cv/
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
